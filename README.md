@@ -11,7 +11,7 @@ What type of alert may require tuning?
     What are Log Sources, and how is log ingestion done?
     What are the capabilities a SIEM provides?
 
-#3# What does SIEM stand for?
+### What does SIEM stand for?
 Security Information and Event management
 
 ### Is Registry-related activity host-centric or network-centric?
@@ -37,9 +37,9 @@ In the static lab attached, a sample dashboard and events are displayed. When a 
 ### Click on Start Suspicious Activity, which process caused the alert?
 cudominer.exe
 
+![Screenshot_2024-07-01_20_03_25](https://github.com/msaurelius/Introduction_SIEM/assets/173549330/fe56cd01-1582-4725-a39f-7102cb34e574)
 ### Find the event that caused the alert, which user was responsible for the process execution?
 chris.fort
-![Screenshot_2024-07-01_20_03_25](https://github.com/msaurelius/Introduction_SIEM/assets/173549330/fe56cd01-1582-4725-a39f-7102cb34e574)
 
 ### What is the hostname of the suspect user?
 HR_02
