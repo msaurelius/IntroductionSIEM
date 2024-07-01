@@ -59,6 +59,6 @@ ________________________________________________________________________________
 True-positive
 _______________________________________________________________________________________________________________________________________
 ### Selecting the right ACTION will display the FLAG. What is the FLAG?
-THM{000_SIEM_INTRO)
+THM{000_SIEM_INTRO}
 ![Screenshot_2024-07-01_20_16_38(1)](https://github.com/msaurelius/Introduction_SIEM/assets/173549330/a881d03f-434a-449e-8c4c-0592ebf4e30b)
 
