@@ -39,6 +39,7 @@ cudominer.exe
 
 ### Find the event that caused the alert, which user was responsible for the process execution?
 chris.fort
+![Screenshot_2024-07-01_20_03_25](https://github.com/msaurelius/Introduction_SIEM/assets/173549330/fe56cd01-1582-4725-a39f-7102cb34e574)
 
 ### What is the hostname of the suspect user?
 HR_02
