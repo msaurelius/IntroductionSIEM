@@ -4,12 +4,12 @@ SIEM stands for Security Information and Event Management system. It is a tool t
 Learning Objective
 
 Some of the learning objectives are:
-What type of alert may require tuning?
-    What is SIEM, and how does it work?
-    Why is SIEM needed?
-    What is Network Visibility?
-    What are Log Sources, and how is log ingestion done?
-    What are the capabilities a SIEM provides?
+What type of alert may require tuning?<br?
+    - What is SIEM, and how does it work?<br>
+    - Why is SIEM needed?<br>
+    - What is Network Visibility?<br>
+    - What are Log Sources, and how is log ingestion done?<br>
+    - What are the capabilities a SIEM provides?<br>
 
 ### What does SIEM stand for?
 Security Information and Event management
