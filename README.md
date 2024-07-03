@@ -13,7 +13,6 @@ Practices with SIEM
 At this section I will compare the learning objectives with the theory I will learn, The goal is to show that I understand what I've learned.
 
 ## Learning objectives of box:
-What type of alert may require tuning?<br?
     - What is SIEM, and how does it work?<br>
     - Why is SIEM needed?<br>
     - What is Network Visibility?<br>
