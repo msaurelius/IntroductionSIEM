@@ -16,21 +16,6 @@ What type of alert may require tuning?<br?
 ### What does SIEM stand for?
 Security Information and Event management
 
-### Is Registry-related activity host-centric or network-centric?
-Host-centric
-
-### Is VPN related activity host-centric or network-centric?
-Network-centric
-
-### In which location within a Linux environment are HTTP logs are stored?
-/var/log/httpd
-
-### Which Event ID is generated when event logs are removed?
-104
-
-### What type of alert may require tuning?
-False Alarm
-
 ### 2. Lab Work
 In the static lab attached, a sample dashboard and events are displayed. When a suspicious activity happens, an Alert is triggered, which means some events match the condition of some rule already configured. 
 ![Screenshot_2024-07-01_19_57_43](https://github.com/msaurelius/Introduction_SIEM/assets/173549330/93680f26-2085-4f7d-bdce-6997b2bd33db)
