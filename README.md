@@ -1,8 +1,16 @@
 
-#  Theory 
+#  SIEM
 ## What is SIEM?
 SIEM stands for Security Information and Event Management system. It is a tool that collects data from various endpoints/network devices across the network, stores them at a centralized place, and performs correlation on them. This room will cover the basic concepts required to understand SIEM and how it works.
 Learning Objective
+
+## Structure of repo
+1. Theory-of-Siem <br>
+With a combination of reading theory and answering questions I learned the basics of SIEM <br>
+2. Static-Lab
+Practices with SIEM
+3. Summary
+At this section I will compare the learning objectives with the theory I will learn, The goal is to show that I understand what I've learned.
 
 ## Learning objectives of box:
 What type of alert may require tuning?<br?
