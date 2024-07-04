@@ -6,7 +6,7 @@ SIEM stands for Security Information and Event Management system. It is a tool t
 ## Structure of repo(based on box)
 The box is divided into 2 sections:
 1. Theory
-   - Network visibility through SIENM
+   - Network visibility through SIEM
    - Log Sources and Log Ingestion
    - Why SIEM?
    - Analyzing logs and reports
