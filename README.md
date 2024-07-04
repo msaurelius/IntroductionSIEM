@@ -1,9 +1,9 @@
 
-#  Box: Introduction to SIEM
+#  Machine: Introduction to SIEM
 ## What is SIEM?
 SIEM stands for Security Information and Event Management system. It is a tool that collects data from various endpoints/network devices across the network, stores them at a centralized place, and performs correlation on them. This box will cover the basic concepts required to understand SIEM and how it works.
 <br>
-## Structure of repo(based on box)
+## Structure of repo(based on machine)
 The box is divided into 2 sections:
 1. Theory
    - Network visibility through SIEM
